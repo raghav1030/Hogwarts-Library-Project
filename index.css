@@ -1,0 +1,21 @@
+.left{
+    width: 60%;
+}
+
+.right{
+    width: 40%;
+}
+
+/* .table-head{
+    background-color: rgba(233, 70, 70, 0.798);
+} */
+
+/* .table-body{
+    background-color: rgba(233, 126, 126, 0.804);
+} */
+
+.delete-btn{
+    border: none;
+    outline: none;
+    outline-style: none;
+}
